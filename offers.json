@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ajuga Reptans",
+    "preco": 20,
+    "ordem": 6
+  },
+  {
+    "name": "Cordyline fruticosa",
+    "preco": 35,
+    "ordem": 3
+  },
+  {
+    "name": "Crassula ovata",
+    "preco": 23.2,
+    "ordem": 2
+  },
+  {
+    "name": "Cyperus rotundus",
+    "preco": 40,
+    "ordem": 0
+  },
+  {
+    "name": "Delairea odorata",
+    "preco": 15,
+    "ordem": 3
+  },
+  {
+    "name": "Datura metel",
+    "preco": 73.2,
+    "ordem": 2
+  },
+  {
+    "name": "Reptans Ajuga",
+    "preco": 20,
+    "ordem": 1
+  },
+  {
+    "name": "Fruticosa Cordyline",
+    "preco": 115,
+    "ordem": 3
+  },
+  {
+    "name": "Ovata Crassula ",
+    "preco": 93.2,
+    "ordem": 2
+  }
+]
