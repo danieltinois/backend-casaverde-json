@@ -36,12 +36,27 @@
   },
   {
     "name": "Fruticosa Cordyline",
+    "preco": 15,
+    "ordem": 3
+  },
+  {
+    "name": "Ovata Crassula ",
+    "preco": 91.2,
+    "ordem": 2
+  },
+    {
+    "name": "Reptans Ajuga",
+    "preco": 29,
+    "ordem": 1
+  },
+  {
+    "name": "Fruticosa Cordyline",
     "preco": 115,
     "ordem": 3
   },
   {
     "name": "Ovata Crassula ",
-    "preco": 93.2,
-    "ordem": 2
+    "preco": 10.99,
+    "ordem": 0
   }
 ]
